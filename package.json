@@ -1,0 +1,34 @@
+{
+  "name": "mernpractice",
+  "version": "1.0.0",
+  "description": "practice mern app from logrocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonfleming1/mernpractice.git"
+  },
+  "keywords": [
+    "test",
+    "practice",
+    "app"
+  ],
+  "author": "jfleming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonfleming1/mernpractice/issues"
+  },
+  "homepage": "https://github.com/jasonfleming1/mernpractice#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1",
+    "validation": "0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
